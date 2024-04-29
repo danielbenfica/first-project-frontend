@@ -1,0 +1,6 @@
+.content_container{
+  padding-top: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}

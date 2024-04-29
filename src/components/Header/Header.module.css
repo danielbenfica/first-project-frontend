@@ -1,0 +1,13 @@
+.header{
+  box-shadow: 0.2px 1px 5px 1px rgba(0, 0, 0, 0.4);
+  background-color: #75A47F;
+  padding: 4px;
+  display: flex;
+  color: #E8DFCA;
+  align-items: center;
+  gap: 12px;
+}
+.header h2{
+  max-width: 100px;
+  font-weight: 500;
+}

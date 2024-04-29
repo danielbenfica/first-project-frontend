@@ -1,0 +1,33 @@
+.procedure_container{
+  display: flex;
+  align-items: center;
+  background-color: #BACD92;
+  position: relative;
+  width: 95%;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  height: 80px;
+  padding: 0 8px;
+}
+.procedure_container img{
+  border-radius: 50%; 
+}
+.procedure_container div{
+  margin-left: 1rem;
+}
+.procedure_container h2{
+  display: flex;
+  align-items: center;
+  color: #163020;
+}
+.procedure_container p{
+  color: #4F6F52;
+  font-size: 14px;
+}
+.procedure_container .icon{
+  color: #1A4D2E;
+  display: flex;
+  flex: 1;
+  padding: 0 24px;
+  justify-content: right;
+}
